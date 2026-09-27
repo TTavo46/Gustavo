@@ -1,6 +1,6 @@
 <?php
 $nome = $_GET['nome'];
-$apelido= $_GET['apelido'];
+$apelido = $_GET['apelido'];
 $email = $_GET['email'];
 $senha = $_GET['senha'];
 $foto = $_GET['foto'];

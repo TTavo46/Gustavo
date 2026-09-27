@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-    require_once "verificar_sessao.php"
+    require_once "verificar_sessao.php";
     ?>
     Bem vindes bobbix gxxds <br>
     <a href="cad_postagem.php">Postar</a> <br>

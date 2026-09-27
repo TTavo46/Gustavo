@@ -6,6 +6,9 @@
     <title>Document</title>
 </head>
 <body>
+    <?php
+    require_once "verificar_sessao.php"
+    ?>
     <h2>Cadastro de Postagem</h2>
     <form action="salvar_postagem.php" method="GET">
         texto: <br>

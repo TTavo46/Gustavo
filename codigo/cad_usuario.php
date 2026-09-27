@@ -7,7 +7,7 @@
 </head>
 <body>
     <h2>Cadastro de usuario</h2>
-    <form action="">
+    <form action="" method="GET">
         nome: <br>
         <input type="text" name="nome"> <br><br>
 
@@ -25,6 +25,8 @@
 
         <input type="submit" value="Salvar">
     </form>
-    
+
+    <a href="index.php" ><button>Voltar</button></a>
+
 </body>
 </html>

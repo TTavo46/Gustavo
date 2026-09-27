@@ -6,7 +6,7 @@
     <title>inicio</title>
 </head>
 <body>
-    AAAAAAAAAAAAAAAAAAA
+    AAAAAAAAAAAAAAAAAAA <br>
     <a href="cad_usuario.php">cadastro usuario</a>
 
 </body>

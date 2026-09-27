@@ -1,3 +1,4 @@
+<?php require_once "verificar_sessao.php"; ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -27,9 +28,7 @@
 </head>
 
 <body>
-    <?php
-    require_once "verificar_sessao.php";
-    ?>
+
     <h2>Lista de postagens</h2>
 
     <!-- tabela -->

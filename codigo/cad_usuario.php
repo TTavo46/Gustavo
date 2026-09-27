@@ -1,3 +1,4 @@
+<?php require_once "verificar_sessao.php"; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,9 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <?php
-    require_once "verificar_sessao.php";
-    ?>
     <h2>Cadastro de usuario</h2>
     <form action="salvar_usuario.php" method="GET">
         nome: <br>

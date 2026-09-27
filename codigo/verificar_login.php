@@ -16,6 +16,7 @@
         $linha = mysqli_fetch_array($resultados);
 
         session_start();
+        $_SESSION['idusuario'] = $linha['idusuario'];
         $_SESSION['nome'] = $linha['nome'];
         $_SESSION['apelido'] = $linha['apelido'];
         $_SESSION['email'] = $linha['email'];

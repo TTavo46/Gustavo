@@ -7,7 +7,7 @@
 </head>
 <body>
     <h2>Cadastro de Postagem</h2>
-    <form action="salvar_usuario.php" method="GET">
+    <form action="salvar_postagem.php" method="GET">
         texto: <br>
         <input type="text" name="texto"> <br><br>
 

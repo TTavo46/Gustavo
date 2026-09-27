@@ -9,7 +9,7 @@
     Funcionou
     <?php
     session_start();
-    echo "<p> bem venido $SESSION['email']";
+    echo "<p> bem venido $SESSION['email'] </p>";
     ?>
 </body>
 </html>

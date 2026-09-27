@@ -1,9 +1,8 @@
 <?php
 $texto = $_GET['texto'];
-$data_hora = $_GET['data_hora'];
 $idusuario = $_SESSION['idusuario'];
 
-$sql = "INSERT INTO postagem (nome, data_hora, idusuario) VALUES ('$nome', '$data_hora', '$idusuario')";
+$sql = "INSERT INTO postagem (nome, idusuario) VALUES ('$nome', '$idusuario')";
 require_once "conexao.php";
 mysqli_query($conexao, $sql);
 

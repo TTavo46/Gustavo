@@ -11,9 +11,6 @@
         texto: <br>
         <input type="text" name="texto"> <br><br>
 
-        data_hora: <br>
-        <input type="text" name="data_hora"> <br><br>
-
         <input type="submit" value="Salvar">
     </form>
 

@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    Funcionou
+    Bem vindes bobbix gxxds
+    <a href="cad_postagem.php">Postar</a>
 </body>
 </html>

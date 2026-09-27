@@ -6,7 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    Bem vindes bobbix gxxds
-    <a href="cad_postagem.php">Postar</a>
+    Bem vindes bobbix gxxds <br>
+    <a href="cad_postagem.php">Postar</a> <br>
+    <a href="listar_postagem.php">Ver posts</a>
 </body>
 </html>

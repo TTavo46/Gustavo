@@ -8,8 +8,8 @@
 <body>
     Funcionou
     <?php
-    session_start()
-    echo "<p> bem venido $SESSION['email']"
+    session_start();
+    echo "<p> bem venido $SESSION['email']";
     ?>
 </body>
 </html>

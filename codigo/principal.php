@@ -9,6 +9,7 @@
 <body>
     Bem vindes bobbix gxxds <br>
     <a href="cad_postagem.php">Postar</a> <br>
-    <a href="listar_postagem.php">Ver posts</a>
+    <a href="listar_postagem.php">Ver posts</a> <br>
+    <a href="cad_usuario.php">cadastrar</a>
 </body>
 </html>

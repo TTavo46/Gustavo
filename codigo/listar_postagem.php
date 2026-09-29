@@ -68,7 +68,7 @@
             $comentarios = mysqli_query($conexao, $sql3);
 
             if (mysqli_num_rows($comentarios) == 0) {
-                echo "Essa postagem não possui comentários.";
+                echo " <br> Essa postagem não possui comentários.";
             } else {
                 echo "<div class='comentarios'>";
                 // listar comentários aqui
